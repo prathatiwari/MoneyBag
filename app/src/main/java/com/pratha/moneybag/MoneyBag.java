@@ -7,6 +7,8 @@ import java.util.Map;
 
 
 /**
+ * <p>
+ * Created by Pratha on 3/10/2018.
  * class representing money and transactions
  */
 public class MoneyBag {

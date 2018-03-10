@@ -2,6 +2,6 @@
     <string name="app_name">MoneyBag</string>
     <string name="enter_the_amount">Enter the amount</string>
     <string name="process">Process</string>
-    <string name="amount_error">Amount can not be resolved</string>
+    <string name="amount_error">Amount can not be resolved.</string>
     <string name="total_">Total</string>
 </resources>
